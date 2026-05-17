@@ -63,7 +63,7 @@ Assignment/
 
 ## ✍️ Author
 
-**Baran** – Math lover, aspiring developer, and proud Iranian 🇮🇷  
+**Baran** – Math lover, aspiring developer, and proud Iranian  
 > “I wanted this project to reflect what I love: web development, women in STEM, and mathematics.”
 
 ---
