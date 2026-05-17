@@ -1,7 +1,7 @@
 # 🌟 Tribute Website: Maryam Mirzakhani
 
 > 🧠 A university web development project dedicated to the legendary Iranian mathematician,  
-> **Maryam Mirzakhani** — the first woman to win the Fields Medal.
+> **Maryam Mirzakhani**, the first woman to win the Fields Medal.
 
 ---
 
